@@ -18,7 +18,7 @@
 
 ### 🚀 Men haqimda
 
-- 🔭 Hozirda **Zentra** loyihalari va yuqori darajadagi boshqaruv tizimlari (OS, CRM, Mobile) ustida ishlamoqdaman.
+- 🔭 Hozirda **uzinc** loyihalari va yuqori darajadagi boshqaruv tizimlari (OS, CRM, Mobile) ustida ishlamoqdaman.
 - 📱 **Mobil Dasturlash:** Flutter & Dart orqali murakkab arxitekturali, to'liq funksional cross-platform ilovalar.
 - 💻 **Veb & Backend:** React, TypeScript, Node.js, Python, PostgreSQL, REST API & WebSockets.
 - 🐳 **DevOps & Deploy:** Docker, Docker Compose, Linux Server boshqaruvi va avtomatlashtirish.
