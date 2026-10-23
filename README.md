@@ -3,8 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21&height=220&section=header&text=Salom,%20men%20Ikromjon!%20👋&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20%26%20Mobile%20Software%20Engineer&descFontSize=20&descAlignY=62" width="100%" />
 
   <p align="center">
-    <a href="https://t.me/ikromjon_dev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-    <a href="mailto:ikromjon@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://t.me/ikromjon_cm"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="mailto:akparaliyevikromjon7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <img src="https://img.shields.io/badge/Location-Tashkent,%20Uzbekistan-0052CC?style=for-the-badge&logo=google-maps&logoColor=white" />
   </p>
 
